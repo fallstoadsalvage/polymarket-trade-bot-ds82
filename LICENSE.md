@@ -1,4 +1,4 @@
-# 
+# Polymarket vip Strategy: take-profit-orders & trade-sniping offers the most advanced Polymarket strategy, with take-profit-orders and trade-sniping. Ideal for professional traders
 
 
 
